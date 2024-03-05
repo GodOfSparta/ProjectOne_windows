@@ -1676,7 +1676,7 @@ MonoBehaviour:
   Amplitude: 3
   Frequency: 4
   playerHurt: {fileID: 8300000, guid: 7035f9c19c14d0645ad46a5ea9040d41, type: 3}
-  enemyHurt: {fileID: 8300000, guid: a0d2eea4322669f42af9985ac156fc98, type: 3}
+  enemyHurt: {fileID: 8300000, guid: 4c453c780d8eeb049b387b143d40d4cc, type: 3}
 --- !u!82 &286166831
 AudioSource:
   m_ObjectHideFlags: 0
